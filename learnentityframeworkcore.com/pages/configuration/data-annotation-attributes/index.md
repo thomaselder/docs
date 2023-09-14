@@ -26,7 +26,7 @@ Attributes are a kind of tag that you can place on a class or property to specif
 
 
 
-#### System.ComponentModel.Annotations attributes
+#### System.ComponentModel.DataAnnotations attributes
 
 | Attribute | Description |
 | :-- | :-- |
